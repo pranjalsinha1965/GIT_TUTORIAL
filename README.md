@@ -1,4 +1,5 @@
 # GIT_TUTORIAL
+
 This is a Git Tutorial Respository
 
 All these steps need to be followed for pushing code to a github repository :=>
@@ -9,4 +10,13 @@ All these steps need to be followed for pushing code to a github repository :=>
 5. git remote add origin "github-url"
 6. git branch -M main
 7. git push -u origin main
+
+Some descriptions!
+
+## Subheader
+
+Watch tutorial on YouTube. 
+
+## Local Development 
+1.Open index.html in your browser 
 
